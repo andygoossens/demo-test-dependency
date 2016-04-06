@@ -1,0 +1,4 @@
+rootProject.name = 'demo-test-dependency'
+
+include 'first'
+include 'second'
